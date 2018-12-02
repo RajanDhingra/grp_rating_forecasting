@@ -8,3 +8,5 @@ The data contains 92 points of GRP ratings for an Indian television network. The
 The oscillations vary over time and therefore this is a non-stationary series. No outliers or missing values were identified in the data.
 
 There is a clear and decreasing trend over time. There is also seasonal pattern in the data and any forecasts of this series would need to capture the seasonal pattern and the trend.
+
+Submission_Code_ARIMA & Exponential Smoothing.R & Submission_Code_Decomposition & Time Series Regresssion.R utilises the GRP Rating.csv 
