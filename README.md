@@ -1,4 +1,4 @@
-# grp_rating_forecasting
+# GRP Rating Forecasting
 The objective of this study is to forecast GRP ratings for Indian Television Channel. Four different forecasting methods were used in this study and the results from each technique were analysed.
 
 The data set used for this analysis consists of 3 fields: Date, week number and the GRP rating. Data points have a weekly frequency, starting from 7th June 2007 to 15th Mar 2009.
